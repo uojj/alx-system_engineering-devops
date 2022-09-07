@@ -1,2 +1,2 @@
 #!/bin/bash
-tbd
+grep bin /etc/passwd | wc -l
